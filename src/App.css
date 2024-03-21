@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+body {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  background-color: #011627;
+}
+a {
+  text-decoration: none;
+}

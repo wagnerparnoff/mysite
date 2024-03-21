@@ -1,0 +1,28 @@
+@media (min-width: 768px) {
+  .footer {
+    position: absolute;
+    bottom: 0;
+    border-top: 1px solid #1e2d3d;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+  }
+
+  .findeme {
+    border-right: 1px solid #1e2d3d;
+  }
+
+  footer a {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    gap: 10px;
+  }
+
+  footer p {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+}
